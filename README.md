@@ -1,6 +1,6 @@
 <h1> Enio Santinelli Filho </h1>
 
-<h3> Desenvolvedor Web, eterno apaixonado por informática e afins, atualmente estudando JS. Experiência profissional nas áreas de informática, jurídica, consultoria e comercial adquiridas em empresas de diversos portes.</h3>
+<h3> Desenvolvedor Front-End Junior, eterno apaixonado por informática e afins. Experiência profissional nas áreas de informática, jurídica, consultoria e comercial adquiridas em empresas de diversos portes.</h3>
 
 <div align="center">
   <a href="https://github.com/EnioSFilho">
